@@ -1,0 +1,9 @@
+
+.memberimg:hover{   
+    transform: scale(2);  
+}
+
+.image_botton
+{
+    filter: grayscale(100%);
+}
